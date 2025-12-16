@@ -2,7 +2,8 @@
 
 Below is the original question paper provided for the practical exam:
 
-<img width="1328" height="906" alt="Screenshot 2025-12-15 162052" src="https://github.com/user-attachments/assets/31b68b26-4c16-4b40-b1bf-97b8df009bfe" />
+<img width="1328" height="331" alt="Screenshot 2025-12-15 162052" src="https://github.com/user-attachments/assets/b7c5f362-ef7d-47ea-b8f0-0dd071346906" />
+
 
 
 📝 List of Programs
